@@ -1,5 +1,1 @@
 # Generator Functions
-
-
-
-
